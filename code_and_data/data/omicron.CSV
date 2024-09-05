@@ -1,0 +1,1168 @@
+Date,Region,Number of Omicron cases
+01/11/2021,West Midlands,1
+01/11/2021,London,1
+02/11/2021,London,2
+02/11/2021,South East,1
+03/11/2021,London,1
+05/11/2021,Yorkshire and Humber,1
+06/11/2021,North West,1
+10/11/2021,South East,1
+12/11/2021,East of England,1
+12/11/2021,London,1
+15/11/2021,North West,1
+15/11/2021,East Midlands,1
+15/11/2021,London,2
+15/11/2021,South East,1
+16/11/2021,London,2
+17/11/2021,London,2
+20/11/2021,East of England,1
+20/11/2021,London,1
+21/11/2021,East of England,1
+22/11/2021,East of England,3
+22/11/2021,London,3
+22/11/2021,South East,1
+24/11/2021,North West,1
+24/11/2021,East Midlands,2
+24/11/2021,London,2
+24/11/2021,South East,2
+25/11/2021,North West,2
+25/11/2021,East Midlands,2
+25/11/2021,East of England,4
+25/11/2021,London,8
+25/11/2021,South East,5
+25/11/2021,Unknown,1
+26/11/2021,East Midlands,4
+26/11/2021,East of England,4
+26/11/2021,London,17
+26/11/2021,South East,2
+27/11/2021,North West,3
+27/11/2021,Yorkshire and Humber,1
+27/11/2021,West Midlands,2
+27/11/2021,East Midlands,3
+27/11/2021,East of England,8
+27/11/2021,London,9
+27/11/2021,South West,1
+27/11/2021,South East,6
+27/11/2021,Unknown,1
+28/11/2021,North West,5
+28/11/2021,Yorkshire and Humber,1
+28/11/2021,West Midlands,1
+28/11/2021,East Midlands,2
+28/11/2021,East of England,3
+28/11/2021,London,8
+28/11/2021,South East,5
+29/11/2021,North West,1
+29/11/2021,West Midlands,2
+29/11/2021,East Midlands,9
+29/11/2021,East of England,8
+29/11/2021,London,19
+29/11/2021,South West,2
+29/11/2021,South East,11
+30/11/2021,North West,10
+30/11/2021,North East,1
+30/11/2021,Yorkshire and Humber,5
+30/11/2021,West Midlands,4
+30/11/2021,East Midlands,5
+30/11/2021,East of England,10
+30/11/2021,London,28
+30/11/2021,South West,4
+30/11/2021,South East,9
+30/11/2021,Unknown,2
+01/12/2021,North West,7
+01/12/2021,North East,2
+01/12/2021,Yorkshire and Humber,1
+01/12/2021,West Midlands,7
+01/12/2021,East Midlands,12
+01/12/2021,East of England,5
+01/12/2021,London,41
+01/12/2021,South West,5
+01/12/2021,South East,24
+01/12/2021,Unknown,2
+02/12/2021,North West,15
+02/12/2021,North East,2
+02/12/2021,Yorkshire and Humber,2
+02/12/2021,West Midlands,6
+02/12/2021,East Midlands,24
+02/12/2021,East of England,20
+02/12/2021,London,57
+02/12/2021,South West,5
+02/12/2021,South East,28
+02/12/2021,Unknown,6
+03/12/2021,North West,24
+03/12/2021,North East,1
+03/12/2021,Yorkshire and Humber,3
+03/12/2021,West Midlands,7
+03/12/2021,East Midlands,23
+03/12/2021,East of England,29
+03/12/2021,London,75
+03/12/2021,South West,12
+03/12/2021,South East,35
+03/12/2021,Unknown,5
+04/12/2021,North West,10
+04/12/2021,North East,3
+04/12/2021,Yorkshire and Humber,3
+04/12/2021,West Midlands,4
+04/12/2021,East Midlands,21
+04/12/2021,East of England,43
+04/12/2021,London,141
+04/12/2021,South West,15
+04/12/2021,South East,42
+05/12/2021,North West,17
+05/12/2021,North East,6
+05/12/2021,Yorkshire and Humber,6
+05/12/2021,West Midlands,4
+05/12/2021,East Midlands,22
+05/12/2021,East of England,62
+05/12/2021,London,172
+05/12/2021,South West,20
+05/12/2021,South East,57
+05/12/2021,Unknown,4
+06/12/2021,North West,96
+06/12/2021,North East,80
+06/12/2021,Yorkshire and Humber,13
+06/12/2021,West Midlands,12
+06/12/2021,East Midlands,45
+06/12/2021,East of England,116
+06/12/2021,London,300
+06/12/2021,South West,26
+06/12/2021,South East,134
+06/12/2021,Unknown,12
+07/12/2021,North West,103
+07/12/2021,North East,13
+07/12/2021,Yorkshire and Humber,31
+07/12/2021,West Midlands,29
+07/12/2021,East Midlands,112
+07/12/2021,East of England,179
+07/12/2021,London,461
+07/12/2021,South West,70
+07/12/2021,South East,250
+07/12/2021,Unknown,8
+08/12/2021,North West,135
+08/12/2021,North East,17
+08/12/2021,Yorkshire and Humber,27
+08/12/2021,West Midlands,79
+08/12/2021,East Midlands,51
+08/12/2021,East of England,158
+08/12/2021,London,642
+08/12/2021,South West,69
+08/12/2021,South East,333
+08/12/2021,Unknown,15
+09/12/2021,North West,97
+09/12/2021,North East,39
+09/12/2021,Yorkshire and Humber,27
+09/12/2021,West Midlands,77
+09/12/2021,East Midlands,181
+09/12/2021,East of England,199
+09/12/2021,London,985
+09/12/2021,South West,73
+09/12/2021,South East,416
+09/12/2021,Unknown,19
+10/12/2021,North West,186
+10/12/2021,North East,36
+10/12/2021,Yorkshire and Humber,40
+10/12/2021,West Midlands,112
+10/12/2021,East Midlands,200
+10/12/2021,East of England,283
+10/12/2021,London,1388
+10/12/2021,South West,104
+10/12/2021,South East,567
+10/12/2021,Unknown,35
+11/12/2021,North West,198
+11/12/2021,North East,37
+11/12/2021,Yorkshire and Humber,94
+11/12/2021,West Midlands,139
+11/12/2021,East Midlands,180
+11/12/2021,East of England,374
+11/12/2021,London,1121
+11/12/2021,South West,204
+11/12/2021,South East,705
+11/12/2021,Unknown,21
+12/12/2021,North West,242
+12/12/2021,North East,96
+12/12/2021,Yorkshire and Humber,201
+12/12/2021,West Midlands,158
+12/12/2021,East Midlands,472
+12/12/2021,East of England,539
+12/12/2021,London,1545
+12/12/2021,South West,223
+12/12/2021,South East,789
+12/12/2021,Unknown,21
+13/12/2021,North West,902
+13/12/2021,North East,165
+13/12/2021,Yorkshire and Humber,327
+13/12/2021,West Midlands,519
+13/12/2021,East Midlands,831
+13/12/2021,East of England,1003
+13/12/2021,London,3619
+13/12/2021,South West,426
+13/12/2021,South East,1774
+13/12/2021,Unknown,70
+14/12/2021,North West,809
+14/12/2021,North East,359
+14/12/2021,Yorkshire and Humber,409
+14/12/2021,West Midlands,538
+14/12/2021,East Midlands,1341
+14/12/2021,East of England,1335
+14/12/2021,London,4174
+14/12/2021,South West,799
+14/12/2021,South East,2155
+14/12/2021,Unknown,73
+15/12/2021,North West,1488
+15/12/2021,North East,498
+15/12/2021,Yorkshire and Humber,578
+15/12/2021,West Midlands,1141
+15/12/2021,East Midlands,1950
+15/12/2021,East of England,1618
+15/12/2021,London,5673
+15/12/2021,South West,1133
+15/12/2021,South East,3571
+15/12/2021,Unknown,97
+16/12/2021,North West,1643
+16/12/2021,North East,484
+16/12/2021,Yorkshire and Humber,591
+16/12/2021,West Midlands,831
+16/12/2021,East Midlands,1912
+16/12/2021,East of England,1405
+16/12/2021,London,4163
+16/12/2021,South West,1280
+16/12/2021,South East,2531
+16/12/2021,Unknown,115
+17/12/2021,North West,1567
+17/12/2021,North East,377
+17/12/2021,Yorkshire and Humber,666
+17/12/2021,West Midlands,1409
+17/12/2021,East Midlands,1181
+17/12/2021,East of England,1112
+17/12/2021,London,3670
+17/12/2021,South West,1341
+17/12/2021,South East,2582
+17/12/2021,Unknown,104
+18/12/2021,North West,2390
+18/12/2021,North East,251
+18/12/2021,Yorkshire and Humber,1022
+18/12/2021,West Midlands,1299
+18/12/2021,East Midlands,1343
+18/12/2021,East of England,1496
+18/12/2021,London,4148
+18/12/2021,South West,1405
+18/12/2021,South East,3975
+18/12/2021,Unknown,94
+19/12/2021,North West,1909
+19/12/2021,North East,455
+19/12/2021,Yorkshire and Humber,1482
+19/12/2021,West Midlands,1502
+19/12/2021,East Midlands,1587
+19/12/2021,East of England,1478
+19/12/2021,London,4484
+19/12/2021,South West,1192
+19/12/2021,South East,3588
+19/12/2021,Unknown,87
+20/12/2021,North West,2302
+20/12/2021,North East,749
+20/12/2021,Yorkshire and Humber,1072
+20/12/2021,West Midlands,1758
+20/12/2021,East Midlands,1951
+20/12/2021,East of England,1735
+20/12/2021,London,5439
+20/12/2021,South West,1909
+20/12/2021,South East,4772
+20/12/2021,Unknown,207
+21/12/2021,North West,2465
+21/12/2021,North East,778
+21/12/2021,Yorkshire and Humber,943
+21/12/2021,West Midlands,806
+21/12/2021,East Midlands,1850
+21/12/2021,East of England,1050
+21/12/2021,London,2927
+21/12/2021,South West,1917
+21/12/2021,South East,3360
+21/12/2021,Unknown,243
+22/12/2021,North West,2128
+22/12/2021,North East,972
+22/12/2021,Yorkshire and Humber,657
+22/12/2021,West Midlands,908
+22/12/2021,East Midlands,1064
+22/12/2021,East of England,1117
+22/12/2021,London,4912
+22/12/2021,South West,2079
+22/12/2021,South East,4239
+22/12/2021,Unknown,235
+23/12/2021,North West,3724
+23/12/2021,North East,1067
+23/12/2021,Yorkshire and Humber,827
+23/12/2021,West Midlands,2411
+23/12/2021,East Midlands,1164
+23/12/2021,East of England,1412
+23/12/2021,London,4019
+23/12/2021,South West,2569
+23/12/2021,South East,4143
+23/12/2021,Unknown,220
+24/12/2021,North West,2799
+24/12/2021,North East,276
+24/12/2021,Yorkshire and Humber,1099
+24/12/2021,West Midlands,1498
+24/12/2021,East Midlands,500
+24/12/2021,East of England,1101
+24/12/2021,London,4330
+24/12/2021,South West,2245
+24/12/2021,South East,4131
+24/12/2021,Unknown,205
+25/12/2021,North West,1440
+25/12/2021,North East,535
+25/12/2021,Yorkshire and Humber,1972
+25/12/2021,West Midlands,669
+25/12/2021,East Midlands,615
+25/12/2021,East of England,813
+25/12/2021,London,2629
+25/12/2021,South West,1412
+25/12/2021,South East,2989
+25/12/2021,Unknown,110
+26/12/2021,North West,2744
+26/12/2021,North East,1266
+26/12/2021,Yorkshire and Humber,888
+26/12/2021,West Midlands,960
+26/12/2021,East Midlands,563
+26/12/2021,East of England,1069
+26/12/2021,London,3917
+26/12/2021,South West,2765
+26/12/2021,South East,4907
+26/12/2021,Unknown,142
+27/12/2021,North West,4243
+27/12/2021,North East,906
+27/12/2021,Yorkshire and Humber,1491
+27/12/2021,West Midlands,1925
+27/12/2021,East Midlands,1568
+27/12/2021,East of England,1977
+27/12/2021,London,4090
+27/12/2021,South West,2908
+27/12/2021,South East,4256
+27/12/2021,Unknown,219
+28/12/2021,North West,4054
+28/12/2021,North East,670
+28/12/2021,Yorkshire and Humber,1780
+28/12/2021,West Midlands,1659
+28/12/2021,East Midlands,1556
+28/12/2021,East of England,2545
+28/12/2021,London,4377
+28/12/2021,South West,2005
+28/12/2021,South East,4913
+28/12/2021,Unknown,195
+29/12/2021,North West,3883
+29/12/2021,North East,983
+29/12/2021,Yorkshire and Humber,2605
+29/12/2021,West Midlands,1730
+29/12/2021,East Midlands,1565
+29/12/2021,East of England,2870
+29/12/2021,London,5651
+29/12/2021,South West,3973
+29/12/2021,South East,8468
+29/12/2021,Unknown,347
+30/12/2021,North West,4206
+30/12/2021,North East,1002
+30/12/2021,Yorkshire and Humber,2138
+30/12/2021,West Midlands,1495
+30/12/2021,East Midlands,1738
+30/12/2021,East of England,1888
+30/12/2021,London,4398
+30/12/2021,South West,3180
+30/12/2021,South East,5263
+30/12/2021,Unknown,278
+31/12/2021,North West,4630
+31/12/2021,North East,1025
+31/12/2021,Yorkshire and Humber,1437
+31/12/2021,West Midlands,1936
+31/12/2021,East Midlands,1045
+31/12/2021,East of England,949
+31/12/2021,London,2512
+31/12/2021,South West,3565
+31/12/2021,South East,2817
+31/12/2021,Unknown,199
+01/01/2022,North West,1456
+01/01/2022,North East,606
+01/01/2022,Yorkshire and Humber,838
+01/01/2022,West Midlands,1025
+01/01/2022,East Midlands,974
+01/01/2022,East of England,1249
+01/01/2022,London,2255
+01/01/2022,South West,1835
+01/01/2022,South East,2701
+01/01/2022,Unknown,273
+02/01/2022,North West,3342
+02/01/2022,North East,1143
+02/01/2022,Yorkshire and Humber,2050
+02/01/2022,West Midlands,978
+02/01/2022,East Midlands,1283
+02/01/2022,East of England,2077
+02/01/2022,London,4386
+02/01/2022,South West,3363
+02/01/2022,South East,4012
+02/01/2022,Unknown,229
+03/01/2022,North West,2241
+03/01/2022,North East,2027
+03/01/2022,Yorkshire and Humber,2410
+03/01/2022,West Midlands,1501
+03/01/2022,East Midlands,2190
+03/01/2022,East of England,2540
+03/01/2022,London,4986
+03/01/2022,South West,4137
+03/01/2022,South East,4934
+03/01/2022,Unknown,383
+04/01/2022,North West,4786
+04/01/2022,North East,2004
+04/01/2022,Yorkshire and Humber,1705
+04/01/2022,West Midlands,1365
+04/01/2022,East Midlands,2200
+04/01/2022,East of England,2255
+04/01/2022,London,4374
+04/01/2022,South West,5604
+04/01/2022,South East,6352
+04/01/2022,Unknown,404
+05/01/2022,North West,4613
+05/01/2022,North East,1477
+05/01/2022,Yorkshire and Humber,2945
+05/01/2022,West Midlands,2654
+05/01/2022,East Midlands,1073
+05/01/2022,East of England,1463
+05/01/2022,London,3402
+05/01/2022,South West,2513
+05/01/2022,South East,5248
+05/01/2022,Unknown,291
+06/01/2022,North West,3212
+06/01/2022,North East,2183
+06/01/2022,Yorkshire and Humber,2168
+06/01/2022,West Midlands,2172
+06/01/2022,East Midlands,1903
+06/01/2022,East of England,2151
+06/01/2022,London,4077
+06/01/2022,South West,2956
+06/01/2022,South East,4805
+06/01/2022,Unknown,293
+07/01/2022,North West,2611
+07/01/2022,North East,2097
+07/01/2022,Yorkshire and Humber,1865
+07/01/2022,West Midlands,1702
+07/01/2022,East Midlands,1394
+07/01/2022,East of England,1899
+07/01/2022,London,3841
+07/01/2022,South West,2710
+07/01/2022,South East,4816
+07/01/2022,Unknown,225
+08/01/2022,North West,2218
+08/01/2022,North East,836
+08/01/2022,Yorkshire and Humber,1916
+08/01/2022,West Midlands,1736
+08/01/2022,East Midlands,1066
+08/01/2022,East of England,1466
+08/01/2022,London,2851
+08/01/2022,South West,1565
+08/01/2022,South East,3304
+08/01/2022,Unknown,162
+09/01/2022,North West,1869
+09/01/2022,North East,1369
+09/01/2022,Yorkshire and Humber,1490
+09/01/2022,West Midlands,1407
+09/01/2022,East Midlands,1312
+09/01/2022,East of England,1144
+09/01/2022,London,2743
+09/01/2022,South West,1603
+09/01/2022,South East,3711
+09/01/2022,Unknown,158
+10/01/2022,North West,3654
+10/01/2022,North East,1651
+10/01/2022,Yorkshire and Humber,2033
+10/01/2022,West Midlands,2122
+10/01/2022,East Midlands,1910
+10/01/2022,East of England,2300
+10/01/2022,London,4692
+10/01/2022,South West,3455
+10/01/2022,South East,6509
+10/01/2022,Unknown,161
+11/01/2022,North West,3659
+11/01/2022,North East,1263
+11/01/2022,Yorkshire and Humber,2214
+11/01/2022,West Midlands,2186
+11/01/2022,East Midlands,1649
+11/01/2022,East of England,1962
+11/01/2022,London,4368
+11/01/2022,South West,3352
+11/01/2022,South East,5440
+11/01/2022,Unknown,144
+12/01/2022,North West,3043
+12/01/2022,North East,2197
+12/01/2022,Yorkshire and Humber,1847
+12/01/2022,West Midlands,1301
+12/01/2022,East Midlands,1852
+12/01/2022,East of England,1525
+12/01/2022,London,3266
+12/01/2022,South West,2289
+12/01/2022,South East,3775
+12/01/2022,Unknown,113
+13/01/2022,North West,2743
+13/01/2022,North East,1026
+13/01/2022,Yorkshire and Humber,2316
+13/01/2022,West Midlands,1999
+13/01/2022,East Midlands,1535
+13/01/2022,East of England,1419
+13/01/2022,London,3104
+13/01/2022,South West,2458
+13/01/2022,South East,3597
+13/01/2022,Unknown,138
+14/01/2022,North West,3839
+14/01/2022,North East,1623
+14/01/2022,Yorkshire and Humber,2930
+14/01/2022,West Midlands,2824
+14/01/2022,East Midlands,1723
+14/01/2022,East of England,1062
+14/01/2022,London,2403
+14/01/2022,South West,2206
+14/01/2022,South East,3243
+14/01/2022,Unknown,98
+15/01/2022,North West,3685
+15/01/2022,North East,1403
+15/01/2022,Yorkshire and Humber,2491
+15/01/2022,West Midlands,2932
+15/01/2022,East Midlands,1795
+15/01/2022,East of England,1227
+15/01/2022,London,2373
+15/01/2022,South West,1675
+15/01/2022,South East,3054
+15/01/2022,Unknown,81
+16/01/2022,North West,2930
+16/01/2022,North East,1417
+16/01/2022,Yorkshire and Humber,2332
+16/01/2022,West Midlands,2642
+16/01/2022,East Midlands,1547
+16/01/2022,East of England,1237
+16/01/2022,London,2571
+16/01/2022,South West,1590
+16/01/2022,South East,3062
+16/01/2022,Unknown,67
+17/01/2022,North West,4662
+17/01/2022,North East,1631
+17/01/2022,Yorkshire and Humber,3060
+17/01/2022,West Midlands,3394
+17/01/2022,East Midlands,1975
+17/01/2022,East of England,2111
+17/01/2022,London,3499
+17/01/2022,South West,3061
+17/01/2022,South East,4981
+17/01/2022,Unknown,181
+18/01/2022,North West,3544
+18/01/2022,North East,1128
+18/01/2022,Yorkshire and Humber,2326
+18/01/2022,West Midlands,3807
+18/01/2022,East Midlands,2074
+18/01/2022,East of England,2351
+18/01/2022,London,3346
+18/01/2022,South West,2508
+18/01/2022,South East,4670
+18/01/2022,Unknown,112
+19/01/2022,North West,3095
+19/01/2022,North East,1693
+19/01/2022,Yorkshire and Humber,2121
+19/01/2022,West Midlands,2323
+19/01/2022,East Midlands,2218
+19/01/2022,East of England,2398
+19/01/2022,London,3333
+19/01/2022,South West,2883
+19/01/2022,South East,4398
+19/01/2022,Unknown,111
+20/01/2022,North West,3679
+20/01/2022,North East,1638
+20/01/2022,Yorkshire and Humber,2249
+20/01/2022,West Midlands,2738
+20/01/2022,East Midlands,1614
+20/01/2022,East of England,1379
+20/01/2022,London,2698
+20/01/2022,South West,1872
+20/01/2022,South East,3754
+20/01/2022,Unknown,156
+21/01/2022,North West,3625
+21/01/2022,North East,1457
+21/01/2022,Yorkshire and Humber,3042
+21/01/2022,West Midlands,1420
+21/01/2022,East Midlands,1667
+21/01/2022,East of England,2481
+21/01/2022,London,3278
+21/01/2022,South West,2750
+21/01/2022,South East,4381
+21/01/2022,Unknown,80
+22/01/2022,North West,2620
+22/01/2022,North East,1080
+22/01/2022,Yorkshire and Humber,2330
+22/01/2022,West Midlands,1461
+22/01/2022,East Midlands,1560
+22/01/2022,East of England,2315
+22/01/2022,London,2833
+22/01/2022,South West,2368
+22/01/2022,South East,3847
+22/01/2022,Unknown,55
+23/01/2022,North West,2448
+23/01/2022,North East,1372
+23/01/2022,Yorkshire and Humber,2245
+23/01/2022,West Midlands,1148
+23/01/2022,East Midlands,1249
+23/01/2022,East of England,1577
+23/01/2022,London,1847
+23/01/2022,South West,2334
+23/01/2022,South East,3713
+23/01/2022,Unknown,33
+24/01/2022,North West,3678
+24/01/2022,North East,2331
+24/01/2022,Yorkshire and Humber,3568
+24/01/2022,West Midlands,3424
+24/01/2022,East Midlands,2324
+24/01/2022,East of England,2240
+24/01/2022,London,3107
+24/01/2022,South West,3865
+24/01/2022,South East,5921
+24/01/2022,Unknown,201
+25/01/2022,North West,2301
+25/01/2022,North East,1950
+25/01/2022,Yorkshire and Humber,2266
+25/01/2022,West Midlands,2898
+25/01/2022,East Midlands,2171
+25/01/2022,East of England,2647
+25/01/2022,London,3593
+25/01/2022,South West,2577
+25/01/2022,South East,5387
+25/01/2022,Unknown,95
+26/01/2022,North West,2505
+26/01/2022,North East,1954
+26/01/2022,Yorkshire and Humber,2392
+26/01/2022,West Midlands,3348
+26/01/2022,East Midlands,2329
+26/01/2022,East of England,2764
+26/01/2022,London,3281
+26/01/2022,South West,2829
+26/01/2022,South East,5055
+26/01/2022,Unknown,111
+27/01/2022,North West,2096
+27/01/2022,North East,1711
+27/01/2022,Yorkshire and Humber,1867
+27/01/2022,West Midlands,2950
+27/01/2022,East Midlands,2079
+27/01/2022,East of England,2672
+27/01/2022,London,3044
+27/01/2022,South West,3058
+27/01/2022,South East,5430
+27/01/2022,Unknown,142
+28/01/2022,North West,2401
+28/01/2022,North East,1318
+28/01/2022,Yorkshire and Humber,2142
+28/01/2022,West Midlands,2337
+28/01/2022,East Midlands,1827
+28/01/2022,East of England,1901
+28/01/2022,London,2280
+28/01/2022,South West,2338
+28/01/2022,South East,4743
+28/01/2022,Unknown,80
+29/01/2022,North West,1615
+29/01/2022,North East,876
+29/01/2022,Yorkshire and Humber,1807
+29/01/2022,West Midlands,1840
+29/01/2022,East Midlands,1501
+29/01/2022,East of England,1865
+29/01/2022,London,1937
+29/01/2022,South West,1700
+29/01/2022,South East,3325
+29/01/2022,Unknown,55
+30/01/2022,North West,2290
+30/01/2022,North East,1032
+30/01/2022,Yorkshire and Humber,1672
+30/01/2022,West Midlands,1531
+30/01/2022,East Midlands,1509
+30/01/2022,East of England,1758
+30/01/2022,London,2129
+30/01/2022,South West,1760
+30/01/2022,South East,3381
+30/01/2022,Unknown,55
+31/01/2022,North West,3584
+31/01/2022,North East,1495
+31/01/2022,Yorkshire and Humber,2988
+31/01/2022,West Midlands,2835
+31/01/2022,East Midlands,2400
+31/01/2022,East of England,3253
+31/01/2022,London,3441
+31/01/2022,South West,2207
+31/01/2022,South East,6009
+31/01/2022,Unknown,122
+01/02/2022,North West,2140
+01/02/2022,North East,1383
+01/02/2022,Yorkshire and Humber,1960
+01/02/2022,West Midlands,1992
+01/02/2022,East Midlands,1586
+01/02/2022,East of England,2152
+01/02/2022,London,2826
+01/02/2022,South West,2732
+01/02/2022,South East,4745
+01/02/2022,Unknown,100
+02/02/2022,North West,1944
+02/02/2022,North East,1329
+02/02/2022,Yorkshire and Humber,1988
+02/02/2022,West Midlands,1823
+02/02/2022,East Midlands,1630
+02/02/2022,East of England,2415
+02/02/2022,London,3143
+02/02/2022,South West,2247
+02/02/2022,South East,4892
+02/02/2022,Unknown,83
+03/02/2022,North West,2364
+03/02/2022,North East,1168
+03/02/2022,Yorkshire and Humber,1930
+03/02/2022,West Midlands,2246
+03/02/2022,East Midlands,1746
+03/02/2022,East of England,2028
+03/02/2022,London,2719
+03/02/2022,South West,2498
+03/02/2022,South East,4646
+03/02/2022,Unknown,114
+04/02/2022,North West,1767
+04/02/2022,North East,947
+04/02/2022,Yorkshire and Humber,1638
+04/02/2022,West Midlands,1517
+04/02/2022,East Midlands,1404
+04/02/2022,East of England,1826
+04/02/2022,London,2443
+04/02/2022,South West,2481
+04/02/2022,South East,3766
+04/02/2022,Unknown,82
+05/02/2022,North West,1351
+05/02/2022,North East,652
+05/02/2022,Yorkshire and Humber,1214
+05/02/2022,West Midlands,1171
+05/02/2022,East Midlands,1098
+05/02/2022,East of England,2030
+05/02/2022,London,2096
+05/02/2022,South West,1650
+05/02/2022,South East,2830
+05/02/2022,Unknown,55
+06/02/2022,North West,1131
+06/02/2022,North East,448
+06/02/2022,Yorkshire and Humber,851
+06/02/2022,West Midlands,1218
+06/02/2022,East Midlands,958
+06/02/2022,East of England,1529
+06/02/2022,London,1525
+06/02/2022,South West,1360
+06/02/2022,South East,2287
+06/02/2022,Unknown,38
+07/02/2022,North West,1359
+07/02/2022,North East,1012
+07/02/2022,Yorkshire and Humber,1283
+07/02/2022,West Midlands,1580
+07/02/2022,East Midlands,1591
+07/02/2022,East of England,2393
+07/02/2022,London,2593
+07/02/2022,South West,2874
+07/02/2022,South East,4361
+07/02/2022,Unknown,62
+08/02/2022,North West,1664
+08/02/2022,North East,870
+08/02/2022,Yorkshire and Humber,1440
+08/02/2022,West Midlands,1821
+08/02/2022,East Midlands,1527
+08/02/2022,East of England,2106
+08/02/2022,London,2215
+08/02/2022,South West,2215
+08/02/2022,South East,3371
+08/02/2022,Unknown,60
+09/02/2022,North West,1796
+09/02/2022,North East,713
+09/02/2022,Yorkshire and Humber,1366
+09/02/2022,West Midlands,1584
+09/02/2022,East Midlands,1374
+09/02/2022,East of England,1839
+09/02/2022,London,2342
+09/02/2022,South West,2324
+09/02/2022,South East,3392
+09/02/2022,Unknown,52
+10/02/2022,North West,1219
+10/02/2022,North East,691
+10/02/2022,Yorkshire and Humber,1024
+10/02/2022,West Midlands,1147
+10/02/2022,East Midlands,995
+10/02/2022,East of England,1703
+10/02/2022,London,2001
+10/02/2022,South West,1827
+10/02/2022,South East,2863
+10/02/2022,Unknown,34
+11/02/2022,North West,1191
+11/02/2022,North East,615
+11/02/2022,Yorkshire and Humber,877
+11/02/2022,West Midlands,1014
+11/02/2022,East Midlands,935
+11/02/2022,East of England,1372
+11/02/2022,London,1425
+11/02/2022,South West,1486
+11/02/2022,South East,2253
+11/02/2022,Unknown,34
+12/02/2022,North West,751
+12/02/2022,North East,423
+12/02/2022,Yorkshire and Humber,663
+12/02/2022,West Midlands,720
+12/02/2022,East Midlands,707
+12/02/2022,East of England,962
+12/02/2022,London,995
+12/02/2022,South West,1131
+12/02/2022,South East,1386
+12/02/2022,Unknown,30
+13/02/2022,North West,666
+13/02/2022,North East,375
+13/02/2022,Yorkshire and Humber,570
+13/02/2022,West Midlands,556
+13/02/2022,East Midlands,462
+13/02/2022,East of England,749
+13/02/2022,London,846
+13/02/2022,South West,882
+13/02/2022,South East,946
+13/02/2022,Unknown,32
+14/02/2022,North West,1356
+14/02/2022,North East,692
+14/02/2022,Yorkshire and Humber,1087
+14/02/2022,West Midlands,1339
+14/02/2022,East Midlands,1091
+14/02/2022,East of England,1899
+14/02/2022,London,2152
+14/02/2022,South West,2016
+14/02/2022,South East,2768
+14/02/2022,Unknown,59
+15/02/2022,North West,902
+15/02/2022,North East,528
+15/02/2022,Yorkshire and Humber,779
+15/02/2022,West Midlands,934
+15/02/2022,East Midlands,844
+15/02/2022,East of England,1365
+15/02/2022,London,1674
+15/02/2022,South West,1573
+15/02/2022,South East,2306
+15/02/2022,Unknown,43
+16/02/2022,North West,1192
+16/02/2022,North East,574
+16/02/2022,Yorkshire and Humber,995
+16/02/2022,West Midlands,1130
+16/02/2022,East Midlands,990
+16/02/2022,East of England,1487
+16/02/2022,London,1651
+16/02/2022,South West,1331
+16/02/2022,South East,2167
+16/02/2022,Unknown,44
+17/02/2022,North West,1081
+17/02/2022,North East,461
+17/02/2022,Yorkshire and Humber,839
+17/02/2022,West Midlands,826
+17/02/2022,East Midlands,796
+17/02/2022,East of England,1163
+17/02/2022,London,1540
+17/02/2022,South West,1197
+17/02/2022,South East,1851
+17/02/2022,Unknown,47
+18/02/2022,North West,692
+18/02/2022,North East,330
+18/02/2022,Yorkshire and Humber,656
+18/02/2022,West Midlands,682
+18/02/2022,East Midlands,634
+18/02/2022,East of England,557
+18/02/2022,London,439
+18/02/2022,South West,433
+18/02/2022,South East,443
+18/02/2022,Unknown,24
+19/02/2022,North West,557
+19/02/2022,North East,193
+19/02/2022,Yorkshire and Humber,420
+19/02/2022,West Midlands,458
+19/02/2022,East Midlands,461
+19/02/2022,East of England,1016
+19/02/2022,London,1261
+19/02/2022,South West,952
+19/02/2022,South East,1357
+19/02/2022,Unknown,23
+20/02/2022,North West,449
+20/02/2022,North East,225
+20/02/2022,Yorkshire and Humber,345
+20/02/2022,West Midlands,342
+20/02/2022,East Midlands,400
+20/02/2022,East of England,664
+20/02/2022,London,895
+20/02/2022,South West,720
+20/02/2022,South East,956
+20/02/2022,Unknown,15
+21/02/2022,North West,883
+21/02/2022,North East,364
+21/02/2022,Yorkshire and Humber,753
+21/02/2022,West Midlands,829
+21/02/2022,East Midlands,933
+21/02/2022,East of England,1165
+21/02/2022,London,1247
+21/02/2022,South West,1157
+21/02/2022,South East,2375
+21/02/2022,Unknown,30
+22/02/2022,North West,827
+22/02/2022,North East,321
+22/02/2022,Yorkshire and Humber,671
+22/02/2022,West Midlands,690
+22/02/2022,East Midlands,672
+22/02/2022,East of England,1066
+22/02/2022,London,1126
+22/02/2022,South West,916
+22/02/2022,South East,1530
+22/02/2022,Unknown,29
+23/02/2022,North West,974
+23/02/2022,North East,368
+23/02/2022,Yorkshire and Humber,642
+23/02/2022,West Midlands,577
+23/02/2022,East Midlands,524
+23/02/2022,East of England,715
+23/02/2022,London,919
+23/02/2022,South West,784
+23/02/2022,South East,1114
+23/02/2022,Unknown,29
+24/02/2022,North West,709
+24/02/2022,North East,225
+24/02/2022,Yorkshire and Humber,533
+24/02/2022,West Midlands,601
+24/02/2022,East Midlands,532
+24/02/2022,East of England,897
+24/02/2022,London,935
+24/02/2022,South West,871
+24/02/2022,South East,1157
+24/02/2022,Unknown,24
+25/02/2022,North West,661
+25/02/2022,North East,191
+25/02/2022,Yorkshire and Humber,429
+25/02/2022,West Midlands,540
+25/02/2022,East Midlands,490
+25/02/2022,East of England,730
+25/02/2022,London,809
+25/02/2022,South West,676
+25/02/2022,South East,809
+25/02/2022,Unknown,24
+26/02/2022,North West,454
+26/02/2022,North East,151
+26/02/2022,Yorkshire and Humber,294
+26/02/2022,West Midlands,271
+26/02/2022,East Midlands,219
+26/02/2022,East of England,412
+26/02/2022,London,537
+26/02/2022,South West,465
+26/02/2022,South East,469
+26/02/2022,Unknown,16
+27/02/2022,North West,434
+27/02/2022,North East,187
+27/02/2022,Yorkshire and Humber,357
+27/02/2022,West Midlands,295
+27/02/2022,East Midlands,324
+27/02/2022,East of England,626
+27/02/2022,London,798
+27/02/2022,South West,416
+27/02/2022,South East,573
+27/02/2022,Unknown,16
+28/02/2022,North West,1164
+28/02/2022,North East,445
+28/02/2022,Yorkshire and Humber,817
+28/02/2022,West Midlands,940
+28/02/2022,East Midlands,873
+28/02/2022,East of England,1056
+28/02/2022,London,1294
+28/02/2022,South West,1145
+28/02/2022,South East,2021
+28/02/2022,Unknown,28
+01/03/2022,North West,1024
+01/03/2022,North East,322
+01/03/2022,Yorkshire and Humber,656
+01/03/2022,West Midlands,828
+01/03/2022,East Midlands,822
+01/03/2022,East of England,1169
+01/03/2022,London,1117
+01/03/2022,South West,993
+01/03/2022,South East,1530
+01/03/2022,Unknown,33
+02/03/2022,North West,1029
+02/03/2022,North East,347
+02/03/2022,Yorkshire and Humber,751
+02/03/2022,West Midlands,825
+02/03/2022,East Midlands,706
+02/03/2022,East of England,930
+02/03/2022,London,1019
+02/03/2022,South West,992
+02/03/2022,South East,1411
+02/03/2022,Unknown,30
+03/03/2022,North West,668
+03/03/2022,North East,448
+03/03/2022,Yorkshire and Humber,550
+03/03/2022,West Midlands,561
+03/03/2022,East Midlands,471
+03/03/2022,East of England,809
+03/03/2022,London,1105
+03/03/2022,South West,754
+03/03/2022,South East,1358
+03/03/2022,Unknown,32
+04/03/2022,North West,575
+04/03/2022,North East,232
+04/03/2022,Yorkshire and Humber,336
+04/03/2022,West Midlands,461
+04/03/2022,East Midlands,472
+04/03/2022,East of England,706
+04/03/2022,London,1002
+04/03/2022,South West,740
+04/03/2022,South East,1453
+04/03/2022,Unknown,22
+05/03/2022,North West,723
+05/03/2022,North East,216
+05/03/2022,Yorkshire and Humber,390
+05/03/2022,West Midlands,352
+05/03/2022,East Midlands,322
+05/03/2022,East of England,717
+05/03/2022,London,841
+05/03/2022,South West,661
+05/03/2022,South East,873
+05/03/2022,Unknown,22
+06/03/2022,North West,838
+06/03/2022,North East,164
+06/03/2022,Yorkshire and Humber,439
+06/03/2022,West Midlands,355
+06/03/2022,East Midlands,432
+06/03/2022,East of England,844
+06/03/2022,London,735
+06/03/2022,South West,720
+06/03/2022,South East,902
+06/03/2022,Unknown,22
+07/03/2022,North West,1632
+07/03/2022,North East,420
+07/03/2022,Yorkshire and Humber,887
+07/03/2022,West Midlands,1182
+07/03/2022,East Midlands,1079
+07/03/2022,East of England,1873
+07/03/2022,London,1961
+07/03/2022,South West,1290
+07/03/2022,South East,2240
+07/03/2022,Unknown,42
+08/03/2022,North West,1023
+08/03/2022,North East,460
+08/03/2022,Yorkshire and Humber,623
+08/03/2022,West Midlands,1050
+08/03/2022,East Midlands,1065
+08/03/2022,East of England,1758
+08/03/2022,London,1850
+08/03/2022,South West,1255
+08/03/2022,South East,3024
+08/03/2022,Unknown,38
+09/03/2022,North West,1650
+09/03/2022,North East,331
+09/03/2022,Yorkshire and Humber,995
+09/03/2022,West Midlands,1100
+09/03/2022,East Midlands,1156
+09/03/2022,East of England,2148
+09/03/2022,London,2049
+09/03/2022,South West,1420
+09/03/2022,South East,2161
+09/03/2022,Unknown,49
+10/03/2022,North West,1447
+10/03/2022,North East,533
+10/03/2022,Yorkshire and Humber,847
+10/03/2022,West Midlands,1002
+10/03/2022,East Midlands,1160
+10/03/2022,East of England,2161
+10/03/2022,London,2397
+10/03/2022,South West,1433
+10/03/2022,South East,2711
+10/03/2022,Unknown,43
+11/03/2022,North West,1312
+11/03/2022,North East,458
+11/03/2022,Yorkshire and Humber,950
+11/03/2022,West Midlands,1048
+11/03/2022,East Midlands,980
+11/03/2022,East of England,2021
+11/03/2022,London,2219
+11/03/2022,South West,1228
+11/03/2022,South East,3080
+11/03/2022,Unknown,42
+12/03/2022,North West,1245
+12/03/2022,North East,396
+12/03/2022,Yorkshire and Humber,865
+12/03/2022,West Midlands,889
+12/03/2022,East Midlands,871
+12/03/2022,East of England,1555
+12/03/2022,London,1436
+12/03/2022,South West,1129
+12/03/2022,South East,2247
+12/03/2022,Unknown,28
+13/03/2022,North West,969
+13/03/2022,North East,516
+13/03/2022,Yorkshire and Humber,638
+13/03/2022,West Midlands,935
+13/03/2022,East Midlands,790
+13/03/2022,East of England,1302
+13/03/2022,London,1101
+13/03/2022,South West,1632
+13/03/2022,South East,1866
+13/03/2022,Unknown,21
+14/03/2022,North West,2779
+14/03/2022,North East,723
+14/03/2022,Yorkshire and Humber,1757
+14/03/2022,West Midlands,1850
+14/03/2022,East Midlands,2246
+14/03/2022,East of England,3778
+14/03/2022,London,3555
+14/03/2022,South West,2984
+14/03/2022,South East,5435
+14/03/2022,Unknown,44
+15/03/2022,North West,2889
+15/03/2022,North East,889
+15/03/2022,Yorkshire and Humber,1658
+15/03/2022,West Midlands,1581
+15/03/2022,East Midlands,1358
+15/03/2022,East of England,2942
+15/03/2022,London,3055
+15/03/2022,South West,1876
+15/03/2022,South East,4579
+15/03/2022,Unknown,30
+16/03/2022,North West,2134
+16/03/2022,North East,962
+16/03/2022,Yorkshire and Humber,1565
+16/03/2022,West Midlands,576
+16/03/2022,East Midlands,606
+16/03/2022,East of England,1735
+16/03/2022,London,1977
+16/03/2022,South West,1303
+16/03/2022,South East,3779
+16/03/2022,Unknown,41
+17/03/2022,North West,1929
+17/03/2022,North East,880
+17/03/2022,Yorkshire and Humber,1298
+17/03/2022,West Midlands,962
+17/03/2022,East Midlands,867
+17/03/2022,East of England,2569
+17/03/2022,London,3114
+17/03/2022,South West,1078
+17/03/2022,South East,3974
+17/03/2022,Unknown,43
+18/03/2022,North West,918
+18/03/2022,North East,839
+18/03/2022,Yorkshire and Humber,583
+18/03/2022,West Midlands,742
+18/03/2022,East Midlands,976
+18/03/2022,East of England,2096
+18/03/2022,London,2319
+18/03/2022,South West,1068
+18/03/2022,South East,3025
+18/03/2022,Unknown,28
+19/03/2022,North West,62
+19/03/2022,North East,609
+19/03/2022,Yorkshire and Humber,112
+19/03/2022,West Midlands,424
+19/03/2022,East Midlands,490
+19/03/2022,East of England,1374
+19/03/2022,London,1373
+19/03/2022,South West,614
+19/03/2022,South East,1783
+19/03/2022,Unknown,11
+20/03/2022,North West,1
+20/03/2022,Yorkshire and Humber,2
+20/03/2022,West Midlands,129
+20/03/2022,East Midlands,110
+20/03/2022,East of England,141
+20/03/2022,London,24
+20/03/2022,South West,14
+20/03/2022,South East,135
+20/03/2022,Unknown,2

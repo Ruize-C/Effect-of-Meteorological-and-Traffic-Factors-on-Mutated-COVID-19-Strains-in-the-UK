@@ -1,0 +1,293 @@
+,Unnamed: 0,area label,area long label,area,doctors
+0,0,Peterborough,Peterborough (Unitary),E06000031,0.094
+1,1,Adur,Adur (District),E07000223,0.093
+2,2,Allerdale,Allerdale (District),E07000026,0.112
+3,3,Amber Valley,Amber Valley (District),E07000032,0.109
+4,4,Arun,Arun (District),E07000224,0.099
+5,5,Ashfield,Ashfield (District),E07000170,0.101
+6,6,Ashford,Ashford (District),E07000105,0.084
+7,8,Babergh,Babergh (District),E07000200,0.097
+8,9,Barking and Dagenham,Barking and Dagenham (London borough),E09000002,0.154
+9,10,Barnet,Barnet (London borough),E09000003,0.155
+10,11,Barnsley,Barnsley (Metropolitan borough),E08000016,0.113
+11,12,Barrow-in-Furness,Barrow-in-Furness (District),E07000027,0.12
+12,13,Basildon,Basildon (District),E07000066,0.144
+13,14,Basingstoke and Deane,Basingstoke and Deane (District),E07000084,0.062
+14,15,Bassetlaw,Bassetlaw (District),E07000171,0.076
+15,16,Bath and North East Somerset,Bath and North East Somerset (Unitary),E06000022,0.138
+16,17,Bedford Borough,Bedford Borough (Unitary),E06000055,0.143
+17,19,Bexley,Bexley (London borough),E09000004,0.084
+18,20,Birmingham,Birmingham (Metropolitan borough),E08000025,0.14
+19,22,Blackburn with Darwen,Blackburn with Darwen (Unitary),E06000008,0.153
+20,23,Blackpool,Blackpool (Unitary),E06000009,0.108
+21,24,Bolsover,Bolsover (District),E07000033,0.148
+22,25,Bolton,Bolton (Metropolitan borough),E08000001,0.139
+23,26,Boston,Boston (District),E07000136,0.127
+24,27,"Bournemouth, Christchurch and Poole","Bournemouth, Christchurch and Poole (Unitary)",E06000058,0.113
+25,28,Bracknell Forest,Bracknell Forest (Unitary),E06000036,0.121
+26,29,Bradford,Bradford (Metropolitan borough),E08000032,0.105
+27,30,Braintree,Braintree (District),E07000067,0.118
+28,31,Breckland,Breckland (District),E07000143,0.12
+29,32,Brent,Brent (London borough),E09000005,0.153
+30,33,Brentwood,Brentwood (District),E07000068,0.168
+31,34,Brighton and Hove,Brighton and Hove (Unitary),E06000043,0.13
+33,36,Broadland,Broadland (District),E07000144,0.099
+34,37,Bromley,Bromley (London borough),E09000006,0.138
+35,38,Bromsgrove,Bromsgrove (District),E07000234,0.139
+36,39,Broxbourne,Broxbourne (District),E07000095,0.123
+37,40,Broxtowe,Broxtowe (District),E07000172,0.113
+38,43,Burnley,Burnley (District),E07000117,0.134
+39,44,Bury,Bury (Metropolitan borough),E08000002,0.136
+40,45,Calderdale,Calderdale (Metropolitan borough),E08000033,0.099
+41,46,Cambridge,Cambridge (District),E07000008,0.168
+42,49,Camden,Camden (London borough),E09000007,0.193
+43,50,Cannock Chase,Cannock Chase (District),E07000192,0.138
+44,51,Canterbury,Canterbury (District),E07000106,0.09
+45,52,Carlisle,Carlisle (District),E07000028,0.101
+46,53,Castle Point,Castle Point (District),E07000069,0.144
+47,54,Central Bedfordshire,Central Bedfordshire (Unitary),E06000056,0.078
+48,55,Charnwood,Charnwood (District),E07000130,0.133
+49,56,Chelmsford,Chelmsford (District),E07000070,0.111
+50,57,Cheltenham,Cheltenham (District),E07000078,0.129
+51,58,Cherwell,Cherwell (District),E07000177,0.119
+52,59,Cheshire East,Cheshire East (Unitary),E06000049,0.098
+53,61,Cheshire West and Chester,Cheshire West and Chester (Unitary),E06000050,0.137
+54,62,Chesterfield,Chesterfield (District),E07000034,0.095
+55,63,Chichester,Chichester (District),E07000225,0.107
+56,64,Chorley,Chorley (District),E07000118,0.135
+57,67,Colchester,Colchester (District),E07000071,0.091
+58,68,Copeland,Copeland (District),E07000029,0.103
+59,69,Cornwall,Cornwall (Unitary),E06000052,0.105
+60,71,Cotswold,Cotswold (District),E07000079,0.122
+61,73,Coventry,Coventry (Metropolitan borough),E08000026,0.119
+62,74,Craven,Craven (District),E07000163,0.052
+63,75,Crawley,Crawley (District),E07000226,0.133
+64,76,Croydon,Croydon (London borough),E09000008,0.129
+65,79,Dacorum,Dacorum (District),E07000096,0.109
+66,80,Darlington,Darlington (Unitary),E06000005,0.112
+67,82,Derby,Derby (Unitary),E06000015,0.117
+68,84,Derbyshire Dales,Derbyshire Dales (District),E07000035,0.166
+69,88,Doncaster,Doncaster (Metropolitan borough),E08000017,0.106
+70,89,Dorset,Dorset (Unitary),E06000059,0.118
+71,91,Dover,Dover (District),E07000108,0.152
+72,92,Dudley,Dudley (Metropolitan borough),E08000027,0.124
+73,93,Durham,Durham (Unitary),E06000047,0.116
+74,94,Ealing,Ealing (London borough),E09000009,0.244
+75,95,East Cambridgeshire,East Cambridgeshire (District),E07000009,0.089
+76,96,East Devon,East Devon (District),E07000040,0.074
+77,97,East Hampshire,East Hampshire (District),E07000085,0.113
+78,98,East Hertfordshire,East Hertfordshire (District),E07000242,0.086
+79,99,East Lindsey,East Lindsey (District),E07000137,0.134
+80,100,East Riding of Yorkshire,East Riding of Yorkshire (Unitary),E06000011,0.096
+81,101,East Staffordshire,East Staffordshire (District),E07000193,0.149
+82,102,East Suffolk,East Suffolk (District),E07000244,0.096
+83,105,Eastbourne,Eastbourne (District),E07000061,0.126
+84,106,Eastleigh,Eastleigh (District),E07000086,0.089
+85,107,Eden,Eden (District),E07000030,0.186
+86,108,Elmbridge,Elmbridge (District),E07000207,0.138
+87,109,Enfield,Enfield (London borough),E09000010,0.099
+88,110,Epping Forest,Epping Forest (District),E07000072,0.106
+89,111,Epsom and Ewell,Epsom and Ewell (District),E07000208,0.123
+90,112,Erewash,Erewash (District),E07000036,0.104
+91,115,Exeter,Exeter (District),E07000041,0.15
+92,116,Fareham,Fareham (District),E07000087,0.086
+93,117,Fenland,Fenland (District),E07000010,0.098
+94,118,Folkestone and Hythe,Folkestone and Hythe (District),E07000112,0.159
+95,119,Forest of Dean,Forest of Dean (District),E07000080,0.138
+96,120,Fylde,Fylde (District),E07000119,0.148
+97,121,Gateshead,Gateshead (Metropolitan borough),E08000037,0.139
+98,122,Gedling,Gedling (District),E07000173,0.118
+99,123,Gloucester,Gloucester (District),E07000081,0.069
+100,126,Gosport,Gosport (District),E07000088,0.059
+101,127,Gravesham,Gravesham (District),E07000109,0.094
+102,128,Great Yarmouth,Great Yarmouth (District),E07000145,0.081
+103,130,Greenwich,Greenwich (London borough),E09000011,0.118
+104,131,Guildford,Guildford (District),E07000209,0.106
+105,132,Hackney,Hackney (London borough),E09000012,0.149
+106,133,Halton,Halton (Unitary),E06000006,0.1
+107,134,Hambleton,Hambleton (District),E07000164,0.12
+108,135,Hammersmith and Fulham,Hammersmith and Fulham (London borough),E09000013,0.212
+109,138,Harborough,Harborough (District),E07000131,0.094
+110,139,Haringey,Haringey (London borough),E09000014,0.139
+111,140,Harlow,Harlow (District),E07000073,0.08
+112,141,Harrogate,Harrogate (District),E07000165,0.111
+113,142,Harrow,Harrow (London borough),E09000015,0.139
+114,143,Hart,Hart (District),E07000089,0.092
+115,144,Hartlepool,Hartlepool (Unitary),E06000001,0.085
+116,145,Hastings,Hastings (District),E07000062,0.108
+117,146,Havant,Havant (District),E07000090,0.079
+118,147,Havering,Havering (London borough),E09000016,0.138
+120,152,Hertsmere,Hertsmere (District),E07000098,0.114
+121,153,High Peak,High Peak (District),E07000037,0.173
+122,154,Hillingdon,Hillingdon (London borough),E09000017,0.149
+123,155,Hinckley and Bosworth,Hinckley and Bosworth (District),E07000132,0.097
+124,156,Horsham,Horsham (District),E07000227,0.082
+125,157,Hounslow,Hounslow (London borough),E09000018,0.129
+126,159,Huntingdonshire,Huntingdonshire (District),E07000011,0.112
+127,160,Hyndburn,Hyndburn (District),E07000120,0.099
+128,161,Ipswich,Ipswich (District),E07000202,0.103
+129,162,Isle of Wight,Isle of Wight (Unitary),E06000046,0.105
+130,165,Islington,Islington (London borough),E09000019,0.125
+131,166,Kensington and Chelsea,Kensington and Chelsea (London borough),E09000020,0.465
+132,169,King's Lynn and West Norfolk,King's Lynn and West Norfolk (District),E07000146,0.119
+134,171,Kingston upon Thames,Kingston upon Thames (London borough),E09000021,0.1
+135,172,Kirklees,Kirklees (Metropolitan borough),E08000034,0.125
+136,173,Knowsley,Knowsley (Metropolitan borough),E08000011,0.125
+137,174,Lambeth,Lambeth (London borough),E09000022,0.137
+138,177,Lancaster,Lancaster (District),E07000121,0.034
+139,178,Leeds,Leeds (Metropolitan borough),E08000035,0.131
+140,179,Leicester,Leicester (Unitary),E06000016,0.138
+141,182,Lewes,Lewes (District),E07000063,0.048
+142,183,Lewisham,Lewisham (London borough),E09000023,0.102
+143,184,Lichfield,Lichfield (District),E07000194,0.066
+144,185,Lincoln,Lincoln (District),E07000138,0.14
+145,188,Liverpool,Liverpool (Metropolitan borough),E08000012,0.174
+146,190,Luton,Luton (Unitary),E06000032,0.122
+147,191,Maidstone,Maidstone (District),E07000110,0.139
+148,192,Maldon,Maldon (District),E07000074,0.107
+149,193,Malvern Hills,Malvern Hills (District),E07000235,0.076
+150,194,Manchester,Manchester (Metropolitan borough),E08000003,0.166
+151,195,Mansfield,Mansfield (District),E07000174,0.101
+152,196,Medway,Medway (Unitary),E06000035,0.147
+153,197,Melton,Melton (District),E07000133,0.117
+154,198,Mendip,Mendip (District),E07000187,0.095
+155,200,Merton,Merton (London borough),E09000024,0.155
+156,201,Mid Devon,Mid Devon (District),E07000042,0.108
+157,202,Mid Suffolk,Mid Suffolk (District),E07000203,0.095
+158,203,Mid Sussex,Mid Sussex (District),E07000228,0.099
+159,204,Middlesbrough,Middlesbrough (Unitary),E06000002,0.092
+160,205,Milton Keynes,Milton Keynes (Unitary),E06000042,0.152
+161,206,Mole Valley,Mole Valley (District),E07000210,0.148
+162,207,New Forest,New Forest (District),E07000091,0.083
+163,208,Newark and Sherwood,Newark and Sherwood (District),E07000175,0.106
+164,209,Newcastle upon Tyne,Newcastle upon Tyne (Metropolitan borough),E08000021,0.127
+165,210,Newcastle-under-Lyme,Newcastle-under-Lyme (District),E07000195,0.147
+166,211,Newham,Newham (London borough),E09000025,0.121
+167,214,North Devon,North Devon (District),E07000043,0.163
+168,215,North East Derbyshire,North East Derbyshire (District),E07000038,0.137
+169,216,North East Lincolnshire,North East Lincolnshire (Unitary),E06000012,0.107
+170,217,North Hertfordshire,North Hertfordshire (District),E07000099,0.105
+171,218,North Kesteven,North Kesteven (District),E07000139,0.118
+172,219,North Lincolnshire,North Lincolnshire (Unitary),E06000013,0.104
+173,220,North Norfolk,North Norfolk (District),E07000147,0.124
+174,222,North Somerset,North Somerset (Unitary),E06000024,0.074
+175,223,North Tyneside,North Tyneside (Metropolitan borough),E08000022,0.12
+176,224,North Warwickshire,North Warwickshire (District),E07000218,0.107
+177,225,North West Leicestershire,North West Leicestershire (District),E07000134,0.114
+178,229,Northumberland,Northumberland (Unitary),E06000057,0.108
+179,231,Norwich,Norwich (District),E07000148,0.162
+180,232,Nottingham,Nottingham (Unitary),E06000018,0.133
+181,235,Nuneaton and Bedworth,Nuneaton and Bedworth (District),E07000219,0.138
+182,236,Oadby and Wigston,Oadby and Wigston (District),E07000135,0.122
+183,237,Oldham,Oldham (Metropolitan borough),E08000004,0.105
+184,238,Oxford,Oxford (District),E07000178,0.132
+185,241,Pendle,Pendle (District),E07000122,0.076
+186,242,Plymouth,Plymouth (Unitary),E06000026,0.107
+187,243,Portsmouth,Portsmouth (Unitary),E06000044,0.088
+188,244,Preston,Preston (District),E07000123,0.111
+189,245,Reading,Reading (Unitary),E06000038,0.125
+190,246,Redbridge,Redbridge (London borough),E09000026,0.15
+191,247,Redcar and Cleveland,Redcar and Cleveland (Unitary),E06000003,0.08
+192,248,Redditch,Redditch (District),E07000236,0.082
+193,249,Reigate and Banstead,Reigate and Banstead (District),E07000211,0.094
+194,250,Ribble Valley,Ribble Valley (District),E07000124,0.129
+195,251,Richmond upon Thames,Richmond upon Thames (London borough),E09000027,0.187
+196,253,Rochdale,Rochdale (Metropolitan borough),E08000005,0.152
+197,254,Rochford,Rochford (District),E07000075,0.114
+198,255,Rossendale,Rossendale (District),E07000125,0.112
+199,256,Rother,Rother (District),E07000064,0.134
+200,257,Rotherham,Rotherham (Metropolitan borough),E08000018,0.117
+201,259,Rugby,Rugby (District),E07000220,0.108
+202,260,Runnymede,Runnymede (District),E07000212,0.111
+203,261,Rushcliffe,Rushcliffe (District),E07000176,0.107
+204,262,Rushmoor,Rushmoor (District),E07000092,0.095
+205,263,Rutland,Rutland (Unitary),E06000017,0.124
+206,264,Ryedale,Ryedale (District),E07000167,0.126
+207,265,Salford,Salford (Metropolitan borough),E08000006,0.148
+208,266,Sandwell,Sandwell (Metropolitan borough),E08000028,0.134
+209,267,Scarborough,Scarborough (District),E07000168,0.129
+210,268,Sedgemoor,Sedgemoor (District),E07000188,0.13
+211,269,Sefton,Sefton (Metropolitan borough),E08000014,0.156
+212,270,Selby,Selby (District),E07000169,0.076
+213,271,Sevenoaks,Sevenoaks (District),E07000111,0.091
+214,272,Sheffield,Sheffield (Metropolitan borough),E08000019,0.153
+215,273,Shropshire,Shropshire (Unitary),E06000051,0.132
+216,275,Slough,Slough (Unitary),E06000039,0.114
+217,276,Solihull,Solihull (Metropolitan borough),E08000029,0.115
+218,278,Somerset West and Taunton,Somerset West and Taunton (District),E07000246,0.135
+219,279,South Cambridgeshire,South Cambridgeshire (District),E07000012,0.112
+220,280,South Derbyshire,South Derbyshire (District),E07000039,0.073
+221,281,South Gloucestershire,South Gloucestershire (Unitary),E06000025,0.083
+222,282,South Hams,South Hams (District),E07000044,0.114
+223,283,South Holland,South Holland (District),E07000140,0.104
+224,284,South Kesteven,South Kesteven (District),E07000141,0.112
+225,285,South Lakeland,South Lakeland (District),E07000031,0.153
+226,286,South Norfolk,South Norfolk (District),E07000149,0.105
+227,287,South Oxfordshire,South Oxfordshire (District),E07000179,0.104
+228,288,South Ribble,South Ribble (District),E07000126,0.144
+229,289,South Somerset,South Somerset (District),E07000189,0.124
+230,290,South Staffordshire,South Staffordshire (District),E07000196,0.116
+231,291,South Tyneside,South Tyneside (Metropolitan borough),E08000023,0.119
+232,295,Southwark,Southwark (London borough),E09000028,0.112
+233,296,Spelthorne,Spelthorne (District),E07000213,0.11
+234,297,St Albans,St Albans (District),E07000240,0.1
+235,298,St. Helens,St. Helens (Metropolitan borough),E08000013,0.138
+236,299,Stafford,Stafford (District),E07000197,0.102
+237,301,Staffordshire Moorlands,Staffordshire Moorlands (District),E07000198,0.122
+238,303,Stockport,Stockport (Metropolitan borough),E08000007,0.126
+239,304,Stockton-on-Tees,Stockton-on-Tees (Unitary),E06000004,0.096
+240,305,Stoke-on-Trent,Stoke-on-Trent (Unitary),E06000021,0.148
+241,307,Stratford-on-Avon,Stratford-on-Avon (District),E07000221,0.121
+242,308,Stroud,Stroud (District),E07000082,0.108
+243,311,Sunderland,Sunderland (Metropolitan borough),E08000024,0.126
+244,314,Surrey Heath,Surrey Heath (District),E07000214,0.146
+245,315,Sutton,Sutton (London borough),E09000029,0.12
+246,316,Swale,Swale (District),E07000113,0.079
+247,317,Swindon,Swindon (Unitary),E06000030,0.099
+248,318,Tameside,Tameside (Metropolitan borough),E08000008,0.119
+249,319,Tamworth,Tamworth (District),E07000199,0.091
+250,320,Tandridge,Tandridge (District),E07000215,0.102
+251,321,Teignbridge,Teignbridge (District),E07000045,0.111
+252,322,Telford and Wrekin,Telford and Wrekin (Unitary),E06000020,0.077
+253,323,Tendring,Tendring (District),E07000076,0.109
+254,324,Test Valley,Test Valley (District),E07000093,0.102
+255,325,Tewkesbury,Tewkesbury (District),E07000083,0.083
+256,326,Thanet,Thanet (District),E07000114,0.099
+257,327,Three Rivers,Three Rivers (District),E07000102,0.096
+258,330,Torbay,Torbay (Unitary),E06000027,0.088
+259,331,Torridge,Torridge (District),E07000046,0.146
+260,332,Tower Hamlets,Tower Hamlets (London borough),E09000030,0.133
+261,333,Trafford,Trafford (Metropolitan borough),E08000009,0.122
+262,334,Tunbridge Wells,Tunbridge Wells (District),E07000116,0.177
+263,336,Uttlesford,Uttlesford (District),E07000077,0.097
+264,337,Vale of White Horse,Vale of White Horse (District),E07000180,0.065
+265,338,Wakefield,Wakefield (Metropolitan borough),E08000036,0.102
+266,339,Walsall,Walsall (Metropolitan borough),E08000030,0.143
+267,340,Waltham Forest,Waltham Forest (London borough),E09000031,0.141
+268,341,Wandsworth,Wandsworth (London borough),E09000032,0.14
+269,342,Warrington,Warrington (Unitary),E06000007,0.129
+270,343,Warwick,Warwick (District),E07000222,0.145
+271,346,Watford,Watford (District),E07000103,0.072
+272,347,Waverley,Waverley (District),E07000216,0.126
+273,348,Wealden,Wealden (District),E07000065,0.129
+274,349,Welwyn Hatfield,Welwyn Hatfield (District),E07000241,0.073
+275,350,West Berkshire,West Berkshire (Unitary),E06000037,0.082
+276,351,West Devon,West Devon (District),E07000047,0.089
+277,352,West Lancashire,West Lancashire (District),E07000127,0.122
+278,353,West Lindsey,West Lindsey (District),E07000142,0.104
+279,356,West Oxfordshire,West Oxfordshire (District),E07000181,0.116
+280,357,West Suffolk,West Suffolk (District),E07000245,0.102
+281,361,Westminster,Westminster (London borough),E09000033,0.334
+282,362,Wigan,Wigan (Metropolitan borough),E08000010,0.124
+283,363,Wiltshire,Wiltshire (Unitary),E06000054,0.101
+284,364,Winchester,Winchester (District),E07000094,0.151
+285,365,Windsor and Maidenhead,Windsor and Maidenhead (Unitary),E06000040,0.172
+286,366,Wirral,Wirral (Metropolitan borough),E08000015,0.148
+287,367,Woking,Woking (District),E07000217,0.1
+288,368,Wokingham,Wokingham (Unitary),E06000041,0.098
+289,369,Wolverhampton,Wolverhampton (Metropolitan borough),E08000031,0.136
+290,372,Worthing,Worthing (District),E07000229,0.108
+291,373,Wychavon,Wychavon (District),E07000238,0.092
+292,374,Wyre,Wyre (District),E07000128,0.088
+293,375,Wyre Forest,Wyre Forest (District),E07000239,0.069
+294,376,York,York (Unitary),E06000014,0.076
