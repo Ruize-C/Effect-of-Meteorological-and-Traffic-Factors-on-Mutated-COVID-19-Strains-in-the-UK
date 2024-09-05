@@ -5,7 +5,7 @@
 ### Code&Data
 
 ```
-code
+code_and_data
 ├─code          #code
 │      pretreatment.ipynb       #Data preprocessing
 │      r0&sensitivity.py        #Calculate R0 and verify C sensitivity
